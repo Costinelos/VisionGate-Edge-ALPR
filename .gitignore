@@ -1,0 +1,16 @@
+.venv/
+venv/
+.idea/
+__pycache__/
+*.pyc
+
+captures/
+*.jpg
+*.jpeg
+*.png
+
+database/*.db
+database/*.db-wal
+database/*.db-shm
+database/*.json
+*.db

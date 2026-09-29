@@ -1,0 +1,6 @@
+ultralytics
+opencv-python-headless
+pytesseract
+RPi.GPIO
+RPLCD
+smbus2
